@@ -1,0 +1,13 @@
+#Call of Duty Match Tracker
+
+The project uses the cod-api wrapper to get real time Warzone stats from the Activision API; calculating player performance metrics and shows them with charts.
+
+#Features
+- Tracks and displays:
+- K/D ratio over time
+- Accuracy trends
+- Weapon usage distribution
+- Fetches up to 20 recent Warzone matches
+
+#Note
+When submitting, Activision's API is temporarily down. The code is functional and will run properly once the API is back.
